@@ -1,0 +1,129 @@
+﻿
+ÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉ
+  TEST REAL SII ÔÇö ArchivoBase_202603.json
+  153 contribuyentes cargados
+ÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉ
+
+­ƒôî Contribuyente de prueba:
+   Raz├│n Social: 9 LUNAS SPA
+   RUT:          76725112-2
+   Rut limpio:   76725112-2
+   RTC:          76.725.112-2
+   Password:     ********
+   Periodo:      202603
+
+ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+PASO 1: Autenticaci├│n en https://zeusr.sii.cl
+ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+
+­ƒôñ POST https://zeusr.sii.cl/cgi_AUT2000/CAutInicio.cgi
+   Body: rut=76725112&dv=2&rutcntr=76.725.112-2&clave=****
+
+­ƒôÑ Status: 200 OK
+   Tipo: basic
+
+­ƒôï Headers de respuesta:
+   cache-control: no-cache, private, no-cache, no-store, must-revalidate, no-transform, proxy-revalidate, max-age=0
+   connection: Keep-Alive
+   content-encoding: gzip
+   content-language: es
+   content-length: 514
+   content-type: text/html
+   date: Fri, 03 Apr 2026 00:18:32 GMT
+   keep-alive: timeout=5
+   p3p: CP="{}"
+   pragma: no-cache
+   referrer-policy: no-referrer-when-downgrade
+   set-cookie: X-SII-STATE-CT=DEL; path=/; domain=.sii.cl; expires=Thu, 01-Jan-1970 00:00:01 GMT; SameSite=Strict; secure
+   set-cookie: X-SII-STATE-CU=DEL; path=/; domain=.sii.cl; expires=Thu, 01-Jan-1970 00:00:01 GMT; SameSite=Strict; secure
+   set-cookie: X-SII-STATE-FN=DEL; path=/; domain=.sii.cl; expires=Thu, 01-Jan-1970 00:00:01 GMT; SameSite=Strict; secure
+   set-cookie: X-SII-STATE-FL=DEL; path=/; domain=.sii.cl; expires=Thu, 01-Jan-1970 00:00:01 GMT; SameSite=Strict; secure
+   set-cookie: X-SII-STATE-CL=DEL; path=/; domain=.sii.cl; expires=Thu, 01-Jan-1970 00:00:01 GMT; SameSite=Strict; secure
+   set-cookie: X-SII-STATE-TL=DEL; path=/; domain=.sii.cl; expires=Thu, 01-Jan-1970 00:00:01 GMT; SameSite=Strict; secure
+   set-cookie: X-SII-STATE-TYPE=DEL; path=/; domain=.sii.cl; expires=Thu, 01-Jan-1970 00:00:01 GMT; SameSite=Strict; secure
+   set-cookie: path=/; domain=.sii.cl; expires=Thu, 01-Jan-1970 00:00:01 GMT; SameSite=Strict; secure
+   set-cookie: NETSCAPE_LIVEWIRE.rut=76725112; path=/; domain=.sii.cl; SameSite=Strict; secure
+   set-cookie: NETSCAPE_LIVEWIRE.rutm=76725112; path=/; domain=.sii.cl; SameSite=Strict; secure
+   set-cookie: NETSCAPE_LIVEWIRE.dv=2; path=/; domain=.sii.cl; SameSite=Strict; secure
+   set-cookie: NETSCAPE_LIVEWIRE.dvm=2; path=/; domain=.sii.cl; SameSite=Strict; secure
+   set-cookie: NETSCAPE_LIVEWIRE.clave=SIykMNnqHD0lYSIwDDlR4UsDzg; path=/; domain=.sii.cl; SameSite=Strict; secure
+   set-cookie: NETSCAPE_LIVEWIRE.mac=33tg4crj63hlqfvbvu0f3tb607; path=/; domain=.sii.cl; SameSite=Strict; secure
+   set-cookie: NETSCAPE_LIVEWIRE.exp=20260402231832; path=/; domain=.sii.cl; SameSite=Strict; secure
+   set-cookie: NETSCAPE_LIVEWIRE.sec=0000; path=/; domain=.sii.cl; SameSite=Strict; secure
+   set-cookie: NETSCAPE_LIVEWIRE.lms=120; path=/; domain=.sii.cl; SameSite=Strict; secure
+   set-cookie: TOKEN=PQDJYM6DL9AZT; path=/; domain=.sii.cl; SameSite=Strict; secure
+   set-cookie: CSESSIONID=PQDJYM6DL9AZT; path=/; domain=.sii.cl; SameSite=Strict; secure
+   set-cookie: RUT_NS=76725112; path=/; domain=.sii.cl; SameSite=Strict;
+   set-cookie: DV_NS=2; path=/; domain=.sii.cl; SameSite=Strict;
+   set-cookie: TS0161cd2b=016d61e7aeafe6408ce2eee908cc71c2f5a908450798a7b69082b12cadcbcf5310be3ab857249714b7aac5b9439da996b608327602224...
+   set-cookie: TSdf5d7d41027=081526045eab20004b570d5a1cf2a5daaeda0bb2560a24cf8137a0fdc9bad519a45af1931a1d23ba08650401181130000f2bed5387...
+   strict-transport-security: max-age=31536000; includeSubDomains; preload
+   vary: Accept-Encoding,User-Agent
+   x-frame-options: SAMEORIGIN
+
+­ƒì¬ Set-Cookie entries: 23
+   [0] X-SII-STATE-CT=DEL; path=/; domain=.sii.cl; expires=Thu, 01-Jan-1970 00:00:01 GMT; SameSite=Strict; ...
+   [1] X-SII-STATE-CU=DEL; path=/; domain=.sii.cl; expires=Thu, 01-Jan-1970 00:00:01 GMT; SameSite=Strict; ...
+   [2] X-SII-STATE-FN=DEL; path=/; domain=.sii.cl; expires=Thu, 01-Jan-1970 00:00:01 GMT; SameSite=Strict; ...
+   [3] X-SII-STATE-FL=DEL; path=/; domain=.sii.cl; expires=Thu, 01-Jan-1970 00:00:01 GMT; SameSite=Strict; ...
+   [4] X-SII-STATE-CL=DEL; path=/; domain=.sii.cl; expires=Thu, 01-Jan-1970 00:00:01 GMT; SameSite=Strict; ...
+   [5] X-SII-STATE-TL=DEL; path=/; domain=.sii.cl; expires=Thu, 01-Jan-1970 00:00:01 GMT; SameSite=Strict; ...
+   [6] X-SII-STATE-TYPE=DEL; path=/; domain=.sii.cl; expires=Thu, 01-Jan-1970 00:00:01 GMT; SameSite=Strict...
+   [7] path=/; domain=.sii.cl; expires=Thu, 01-Jan-1970 00:00:01 GMT; SameSite=Strict; secure
+   [8] NETSCAPE_LIVEWIRE.rut=76725112; path=/; domain=.sii.cl; SameSite=Strict; secure
+   [9] NETSCAPE_LIVEWIRE.rutm=76725112; path=/; domain=.sii.cl; SameSite=Strict; secure
+   [10] NETSCAPE_LIVEWIRE.dv=2; path=/; domain=.sii.cl; SameSite=Strict; secure
+   [11] NETSCAPE_LIVEWIRE.dvm=2; path=/; domain=.sii.cl; SameSite=Strict; secure
+   [12] NETSCAPE_LIVEWIRE.clave=SIykMNnqHD0lYSIwDDlR4UsDzg; path=/; domain=.sii.cl; SameSite=Strict; secure
+   [13] NETSCAPE_LIVEWIRE.mac=33tg4crj63hlqfvbvu0f3tb607; path=/; domain=.sii.cl; SameSite=Strict; secure
+   [14] NETSCAPE_LIVEWIRE.exp=20260402231832; path=/; domain=.sii.cl; SameSite=Strict; secure
+   [15] NETSCAPE_LIVEWIRE.sec=0000; path=/; domain=.sii.cl; SameSite=Strict; secure
+   [16] NETSCAPE_LIVEWIRE.lms=120; path=/; domain=.sii.cl; SameSite=Strict; secure
+   [17] TOKEN=PQDJYM6DL9AZT; path=/; domain=.sii.cl; SameSite=Strict; secure
+   [18] CSESSIONID=PQDJYM6DL9AZT; path=/; domain=.sii.cl; SameSite=Strict; secure
+   [19] RUT_NS=76725112; path=/; domain=.sii.cl; SameSite=Strict;
+   [20] DV_NS=2; path=/; domain=.sii.cl; SameSite=Strict;
+   [21] TS0161cd2b=016d61e7aeafe6408ce2eee908cc71c2f5a908450798a7b69082b12cadcbcf5310be3ab857249714b7aac5b94...
+   [22] TSdf5d7d41027=081526045eab20004b570d5a1cf2a5daaeda0bb2560a24cf8137a0fdc9bad519a45af1931a1d23ba086504...
+
+Ô£à TOKEN extra├¡do: PQDJYM6DL9AZT
+Ô£à Cookie string: X-SII-STATE-CT=DEL; X-SII-STATE-CU=DEL; X-SII-STATE-FN=DEL; X-SII-STATE-FL=DEL; ...
+
+ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+PASO 2: Consulta de DTEs pendientes (getResumen)
+ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+
+­ƒôñ POST https://www4.sii.cl/.../getResumen
+­ƒôÑ Status: 200
+­ƒôÑ Respuesta (primeros 800 chars):
+   {"data":[{"dcvCodigo":1025054202,"rsmnCodigo":2697329828,"rsmnTipoDocInteger":33,"dcvNombreTipoDoc":"Factura Electr├│nica","dcvTipoIngresoDoc":"DET_ELE","rsmnLink":true,"rsmnMntExe":0,"rsmnMntNeto":0,"rsmnMntIVA":0,"rsmnMntIVANoRec":0,"rsmnIVAUsoComun":0,"dcvOperacion":null,"rsmnFechModificacion":null,"rsmnMntTotal":0,"rsmnEstadoContab":null,"rsmnTotDoc":0,"rsmnTotalRutEmisor":null}],"totDocRes":0,"tieneEmisorAgresivo":false,"pDB":false,"verF29":true,"dataCabecera":{"dcvPcarga":202603,"dcvRutEmisor":76725112,"dcvDvEmisor":"2","dcvPtributario":202603,"dcvOperacion":"COMPRA","dcvCodigo":1025054202,"dcvFctProp":" 1,0000","dcvVigente":null,"dcvFecCreacion":"04/03/2026 17:30:30","dcvFecModificacion":"04/03/2026 17:30:30","dcvNroCruceHadoop":null,"dcvFchUltimoCruceHadoop":null},"metaData":{"conve
+
+­ƒôè Tipos de documento pendientes: 1
+   Primer item:
+   {
+  "dcvCodigo": 1025054202,
+  "rsmnCodigo": 2697329828,
+  "rsmnTipoDocInteger": 33,
+  "dcvNombreTipoDoc": "Factura Electr├│nica",
+  "dcvTipoIngresoDoc": "DET_ELE",
+  "rsmnLink": true,
+  "rsmnMntExe": 0,
+  "rsmnMntNeto": 0,
+  "rsmnMntIVA": 0,
+  "rsmnMntIVANoRec": 0,
+  "rsmnIVAUsoComun": 0,
+  "dcvOperacion": null,
+  "rsmnFechModificacion": null,
+  "rsmnMntTotal": 0,
+  "rsmnEstadoContab": null,
+  "rs
+
+ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+PASO 3: Logout
+ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+Ô£à Sesi├│n cerrada.
+
+ÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉ
+  FIN DEL TEST
+ÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉ
+
